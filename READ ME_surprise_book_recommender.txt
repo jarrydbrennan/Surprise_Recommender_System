@@ -1,0 +1,4 @@
+Build a Book Recommender System
+Recommender systems are used in all sorts of organizations to help users make decisions and, for many companies, earn more revenue. Prototyping simple recommender systems also does not need to take a lot of time. In this project, we will build a book recommender system for Books’R’Us using Surprise.
+
+Books’R’Us is a national bookstore chain that sells books of all sorts to people all over the country. They recently have built their website, and now want to add a book recommender system to their site. We will prepare and train the recommender system using book review data left on their site. 
